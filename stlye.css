@@ -1,0 +1,78 @@
+body{
+    background: #999;
+    font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Verdana, Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+}
+
+.container{
+    margin: 0 auto;
+    width:960px;
+
+}
+
+.place{
+    background: #FFF;
+    border: 1px solid #CCC;
+    border-color: #CCC #999 #999 #CCC;
+    margin-bottom: 20px;
+    padding:10px;
+}
+
+.place h2{
+    border-bottom:1px dashed #7E9F19;
+    margin: 0;
+}
+
+.place a{
+    color: #02090c;
+    font-weight: bold;
+}
+
+h1 a {
+    color: #02090c;
+    text-decoration:none;
+}
+
+h1 a:hover {
+    background-color:#FFF;
+    color: #02090C;
+}
+.place img{
+    border: 1px solid #CCC;
+    float: left;
+    margin: 10px 10px 0 0 ;
+    padding: 5px;
+}
+.clear{
+    clear: both;
+}
+
+.footer{
+    font-size: 12px;
+    text-align: center;
+}
+
+.sidenote{
+    background-color: #FFFBE4;
+    border: 1px solid #999;
+    float: right;
+    padding: 10px;
+    width: 250px;
+   
+}
+
+.sidenote h3{
+    font-size: 14px;
+    margin-top: 0;
+}
+
+.sidenote ol{
+    font-size: 12px;
+}
+
+.places{
+    float: left;
+    width: 660px;
+}
+
+
